@@ -8,6 +8,15 @@ h1 {
   margin: auto;
   
 }
-  
+
+h2 {
+  font-family: Verdana;
+  font-weight: bold;
+  background-color: lightseagreen;
+}
+
+#icecream {
+  align-items: center;
+}
   
   
