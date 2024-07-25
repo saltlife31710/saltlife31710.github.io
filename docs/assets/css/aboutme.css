@@ -4,7 +4,6 @@ h1 {
   height: auto;
   width: auto;
   color: white;
-  background-image: url("https://pngimg.com/uploads/deadpool/deadpool_PNG78.png");
 }
 .navbar {
   text-family: Helvetica;
@@ -16,7 +15,7 @@ h1 {
 }
 .navbar a {
     text-decoration: none;
-    color: black;
+    color: white;
     font-weight: 900;
 }
 p {
