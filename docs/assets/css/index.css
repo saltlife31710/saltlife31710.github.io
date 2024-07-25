@@ -6,6 +6,7 @@ h1 {
   width: auto;
   text-align: center;
   margin: auto;
+  background-image: url("./docs/assets/Shark_banner.gif");
   
 }
 
@@ -16,7 +17,7 @@ h2 {
 }
 
 #icecream {
-  align-items: center;
+  align: center;
 }
   
   
