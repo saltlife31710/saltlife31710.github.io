@@ -26,7 +26,7 @@ h2 {
 }
 
 #icecream {
-  align: center;
+  filter: drop-shadow(2px 2px 2px black);
 }
   
   
