@@ -6,7 +6,8 @@ h1 {
   width: auto;
   text-align: center;
   margin: auto;
-  background-image: url("earth.gif");
+  background-color: green;
+  color: purple;
 }
   
   
