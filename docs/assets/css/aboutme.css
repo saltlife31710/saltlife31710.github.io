@@ -4,20 +4,26 @@ h1 {
   height: auto;
   width: auto;
   color: white;
+  text-align: center;
+  font-weight: bold;
 }
+
 .navbar {
   text-family: Helvetica;
   background-color: white;
 }
+
 .navbar li {
    display:inline-block;
     padding: 0 30px;
 }
+
 .navbar a {
     text-decoration: none;
     color: white;
     font-weight: 900;
 }
+
 p {
   color: white;
   text-family: Helvetica;
