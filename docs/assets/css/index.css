@@ -10,6 +10,14 @@ h1 {
   
 }
 
+.navbar {
+   position: fixed;
+    background-color: white;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
 h2 {
   font-family: Verdana;
   font-weight: bold;
