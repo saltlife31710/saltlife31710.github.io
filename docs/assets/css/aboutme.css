@@ -1,5 +1,5 @@
 .banner {
-  text-family: Helvetica;
+  text-family: Arial;
   font-size: 100px;
   height: auto;
   width: auto;
@@ -9,7 +9,7 @@
 }
 
 .navbar {
-  text-family: Helvetica;
+  text-family: Arial;
   background-color: white;
 }
 
@@ -26,8 +26,9 @@
 
 p {
   color: red;
-  text-family: Helvetica;
+  text-family: Arial;
   text-align: center;
+  font-size: 50px;
 }
 
   
