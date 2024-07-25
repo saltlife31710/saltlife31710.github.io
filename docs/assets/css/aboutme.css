@@ -3,4 +3,20 @@ h1 {
   font-size: 100px;
   height: auto;
   width: auto;
+  background-image: url("https://pngimg.com/uploads/deadpool/deadpool_PNG78.png");
 }
+.navbar {
+  text-family: Helvetica;
+  background-color: white;
+}
+.navbar li {
+   display:inline-block;
+    padding: 0 30px;
+}
+.navbar a {
+    text-decoration: none;
+    color: black;
+    font-weight: 900;
+}
+  
+  
